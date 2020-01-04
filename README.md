@@ -1,0 +1,1 @@
+Mini script for calculating the suitable days for transit observations.
